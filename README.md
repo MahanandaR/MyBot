@@ -191,3 +191,6 @@ Any international news involving India?
 
 ![image](https://github.com/user-attachments/assets/06677b54-a7a3-4a38-a178-6f8ea8707d97)
 
+This command is to clear resources(vector):
+----------------------------------------------
+![image](https://github.com/user-attachments/assets/1e8bea4a-ea0f-46c5-a67f-1a8741b863f9)
