@@ -1,3 +1,18 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
